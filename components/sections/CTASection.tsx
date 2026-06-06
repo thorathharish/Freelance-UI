@@ -133,12 +133,12 @@ export default function CTASection() {
               className="text-sm font-bold text-white"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
-              MONOMINT
+              ITECHIE
             </span>
           </div>
 
           <p className="text-xs text-[var(--text-muted)]">
-            © {new Date().getFullYear()} MonoMint. All rights reserved.
+            © {new Date().getFullYear()} iTechie. All rights reserved.
           </p>
 
           <nav aria-label="Social links" className="flex items-center gap-3">
@@ -150,7 +150,7 @@ export default function CTASection() {
               <a
                 key={label}
                 href="#"
-                aria-label={`MonoMint on ${label}`}
+                aria-label={`iTechie on ${label}`}
                 className="flex h-8 w-8 items-center justify-center rounded-md text-[var(--text-muted)] hover:text-white hover:bg-white/[0.06] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-primary)]"
               >
                 <Icon size={15} aria-hidden="true" />

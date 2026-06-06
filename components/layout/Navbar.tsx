@@ -45,13 +45,13 @@ export default function Navbar() {
           <a
             href="#"
             className="flex items-center gap-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-primary)] rounded-sm"
-            aria-label="MonoMint home"
+            aria-label="iTechie home"
           >
             <span
               className="text-lg font-bold tracking-tight text-white"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
-              MONOMINT
+              ITECHIE
             </span>
           </a>
 

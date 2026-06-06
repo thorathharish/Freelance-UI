@@ -71,7 +71,7 @@ export default function WhyUsSection() {
           className="mb-16 max-w-xl"
         >
           <span className="text-xs font-semibold tracking-[0.2em] uppercase text-[var(--brand-accent)] mb-3 block">
-            Why MonoMint
+            Why iTechie
           </span>
           <h2
             id="why-heading"
@@ -89,7 +89,7 @@ export default function WhyUsSection() {
         <div
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
           role="list"
-          aria-label="Reasons to work with MonoMint"
+          aria-label="Reasons to work with iTechie"
         >
           {reasons.map((reason, i) => {
             const Icon = reason.icon;

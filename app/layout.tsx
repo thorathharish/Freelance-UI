@@ -16,7 +16,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "MonoMint — DevOps, AI Agents & Full-Stack Engineering",
+  title: "iTechie — DevOps, AI Agents & Full-Stack Engineering",
   description:
     "Freelance specialists in DevOps, Cloud Infrastructure, AI & Agentic Systems, Backend and Frontend engineering. We design, build, and ship production-grade systems.",
   keywords: [
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "GCP",
   ],
   openGraph: {
-    title: "MonoMint — DevOps, AI Agents & Full-Stack Engineering",
+    title: "iTechie — DevOps, AI Agents & Full-Stack Engineering",
     description:
       "We design, build, and ship production-grade systems — from Kubernetes clusters to LLM-powered agents.",
     type: "website",

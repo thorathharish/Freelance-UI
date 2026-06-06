@@ -4,7 +4,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* ─── MonoMint Design Tokens ─── */
+/* ─── iTechie Design Tokens ─── */
 @theme inline {
   /* Colors */
   --color-background:   var(--background);
@@ -54,7 +54,7 @@
   --ease-exit:       cubic-bezier(0.4, 0, 1, 1);
 }
 
-/* ─── MonoMint Dark Color Scale ─── */
+/* ─── iTechie Dark Color Scale ─── */
 :root {
   --background:       #0B0F19;
   --foreground:       #F9FAFB;
