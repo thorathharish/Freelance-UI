@@ -48,7 +48,7 @@ export default function Navbar() {
             aria-label="iTechie home"
           >
             <span
-              className="text-lg font-bold tracking-tight text-white"
+              className="text-2xl font-bold tracking-tight text-white"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
               ITECHIE

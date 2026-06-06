@@ -110,23 +110,6 @@ export default function HeroSection() {
       />
 
       <div className="relative z-10 mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8 py-24 text-center sm:text-left">
-        {/* Eyebrow chip */}
-        <motion.div
-          {...(shouldReduce ? {} : fadeUp)}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, ease: "easeOut" }}
-          className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-1.5 mb-8"
-        >
-          <span
-            className="h-1.5 w-1.5 rounded-full animate-pulse"
-            style={{ backgroundColor: "var(--brand-highlight)" }}
-            aria-hidden="true"
-          />
-          <span className="text-xs font-medium tracking-widest text-[var(--text-muted)] uppercase">
-            Freelance Engineering Collective
-          </span>
-        </motion.div>
-
         {/* Headline */}
         <motion.h1
           {...(shouldReduce ? {} : fadeUp)}
