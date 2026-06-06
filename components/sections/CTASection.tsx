@@ -8,8 +8,8 @@ const contactDetails = [
   {
     icon: Mail,
     label: "Email Us",
-    value: "thorathharish3@gmail.com",
-    href: "mailto:thorathharish3@gmail.com",
+    value: "support@itechie.in",
+    href: "mailto:support@itechie.in",
     color: "var(--brand-primary)",
   },
   {
