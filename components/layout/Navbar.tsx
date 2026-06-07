@@ -51,7 +51,7 @@ export default function Navbar() {
               className="text-2xl font-bold tracking-tight text-white"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
-              ITECHIE
+              iTechie
             </span>
           </a>
 

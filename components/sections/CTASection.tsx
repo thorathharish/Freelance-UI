@@ -133,7 +133,7 @@ export default function CTASection() {
               className="text-sm font-bold text-white"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
-              ITECHIE
+              iTechie
             </span>
           </div>
 

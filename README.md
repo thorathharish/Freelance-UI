@@ -1,4 +1,4 @@
-# ITECHIE — Freelance Engineering Collective
+# iTechie — Freelance Engineering Collective
 
 A production-ready landing page for iTechie, built with Next.js, Tailwind CSS, and Framer Motion.
 
