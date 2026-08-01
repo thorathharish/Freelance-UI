@@ -2,7 +2,7 @@
 
 The marketing site for iTechie, built on Next.js 16 with the App Router.
 
-**Live:** [freelance-ui-neon.vercel.app](https://freelance-ui-neon.vercel.app)
+**Live:** [itechie.in](https://itechie.in/) — also deployed at [freelance-ui-neon.vercel.app](https://freelance-ui-neon.vercel.app)
 
 `Next.js 16 · React 19 · Tailwind v4 · Framer Motion · TypeScript`
 
